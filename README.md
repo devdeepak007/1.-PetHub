@@ -27,4 +27,6 @@ Search Pets by Category/Breed
 
 Admin Dashboard
 
+PetFood Items (Cats,Dogs,Birds)
+
 Secure login with session management
