@@ -1,32 +1,27 @@
-# 1.-PetHub_Project
-Pet Hub is a Java-based web application that allows users to manage pet adoption, registration, and services. Built using Core Java, Servlets, and JDBC, this project demonstrates how to create a basic dynamic web application connected to a relational database.
-
 🔧 Tech Stack
 Core Java
 
-Servlets
+Servlets & JSP
 
-JDBC
+JDBC (Java Database Connectivity)
 
-MySQL (or any RDBMS)
+MySQL (or any compatible RDBMS)
 
-HTML/CSS/JS (for frontend UI)
+HTML / CSS / JavaScript (for frontend UI)
 
-Apache Tomcat (for deployment)
+Apache Tomcat (Web server)
 
 💡 Features
-User Registration and Login (Admin & Customer)
+🧑‍💻 User Login & Logout
 
-Add/View/Update/Delete Pets
+🛍️ View Pet Products (by category: Cats, Dogs, Birds)
 
-Pet Adoption Requests
+🔍 Search & Filter Items
 
-View Adopted Pets
+🛒 Add Items to Cart
 
-Search Pets by Category/Breed
+💰 View Cart & Place Orders
 
-Admin Dashboard
+📦 Order History (Basic)
 
-PetFood Items (Cats,Dogs,Birds)
-
-Secure login with session management
+🔐 Session Management
